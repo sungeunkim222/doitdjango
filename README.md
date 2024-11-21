@@ -1,4 +1,7 @@
 # Do It Django
+
+노션 주소 : https://malleable-ocarina-24c.notion.site/Do-It-Django-14579570398d80eba0f0ef27b75310a5?pvs=4
+
 대문페이지
 ![image](https://github.com/user-attachments/assets/f4bc4ac8-8202-4b5a-9acf-fe216ac93c79)
 
